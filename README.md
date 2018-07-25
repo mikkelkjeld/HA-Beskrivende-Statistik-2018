@@ -16,7 +16,10 @@ Jeg åbnede et *team* til vores kursus. Her sender jeg updates
 - Resourser: [Github](https://github.com/RJuro/HA-Beskrivende-Statistik-2018)
 - Training: [Datacamp](http://datacamp.com/)
 - Tools: [Google Sheets](https://www.google.com/sheets/about/), Måske [Jupyter/R](https://notebooks.azure.com/)
-- [Peergrading](https://www.peergrade.io/)
+- Eksamen: [Peergrade](https://www.peergrade.io/)
+
+
+
 
 
 [![Peergrade-Youtube](http://img.youtube.com/vi/US_raZCfJAM/0.jpg)](http://www.youtube.com/watch?v=US_raZCfJAM)
