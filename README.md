@@ -23,7 +23,10 @@ Moodle (AAU's installation) er :unamused: især når man arbejder meget med IT o
 Der vil ligge alle formalia omkring kursus på Moodle men resourcer er nok i kursets Github repo.
 
 #### [Datacamp](http://datacamp.com/)
-Datacamp er en online Data Science træning platform, der har mest fokus på R og Python, SQL etc. Jeg har skaffet gratis adgang til jer (6 mdr.), som ellers koster ~300 USD/år.
-Alle af jer **SKAL** 
+Datacamp er en online Data Science træning platform, der har mest fokus på R og Python, SQL etc. Jeg har skaffet gratis adgang til jer.
+Alle af jer **SKAL** gennemføre 2 kurser
+- Spreadsheet Basics
+- Data Analysis with Spreadsheets
+Endvidere åbner jeg for kurser under forløbet "Intro to Statistics with R", "Data Visualization with R" og
 
 [![Peergrade-Youtube](http://img.youtube.com/vi/US_raZCfJAM/0.jpg)](http://www.youtube.com/watch?v=US_raZCfJAM)
