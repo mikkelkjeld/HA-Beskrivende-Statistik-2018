@@ -36,7 +36,7 @@ Endvidere åbner jeg for kurser under forløbet "Intro to Statistics with R", "D
 I får tilsendt et link til Datacamp.
 
 #### [Google Sheets](https://www.google.com/sheets/about/)
-Rigtig manga af jer arbejder med google docs. Google Sheets har mange af de funktioner som man kender fra Excel men skal ikke installeres og man kan nemt arbejde i en gruppe. Hvis man gerne arbejder med Excel (eller R, eller Tableau eller Python eller whatever) må man gerne bruge det.
+Rigtig mange af jer arbejder med google docs. Google Sheets har mange af de funktioner som man kender fra Excel men skal ikke installeres og man kan nemt arbejde i en gruppe. Hvis man gerne arbejder med Excel (eller R, eller Tableau eller Python eller whatever) må man gerne bruge det.
 
 
 [![Peergrade-Youtube](http://img.youtube.com/vi/US_raZCfJAM/0.jpg)](http://www.youtube.com/watch?v=US_raZCfJAM)
