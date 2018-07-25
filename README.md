@@ -16,6 +16,7 @@ Roman Jurowetzki, Ph.D.; Assistant Professor in Innovation Studies and Data Scie
 Vi kommer til at bruge Teams til at kommunikere. Teams er lige som *Slack* et system til modern og professionel kommunikation. I kan bruge Teams også senere til projektarbejde mm. Nogle vejledere her på AAU bruger det allerede.
 
 Join Code **8cul5da**
+
 ![Teams](img/tbboCqEQOU.gif)
 
 Jeg åbnede et *team* til vores kursus. Her sender jeg updates og andet. Hvis I har spørgsmål om noget, er det nok en rigtig god ide at skrive der. I Teams har I også muligheden til at åbne chats (lige som FB). 
