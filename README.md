@@ -11,12 +11,17 @@ Roman Jurowetzki, Ph.D.; Assistant Professor in Innovation Studies and Data Scie
 
 
 #### [Microsoft :confused: Teams](http://teams.microsoft.com/):
-Join Code **8cul5da**
+
 
 Vi kommer til at bruge Teams til at kommunikere. Teams er lige som *Slack* et system til modern og professionel kommunikation. I kan bruge Teams også senere til projektarbejde mm. Nogle vejledere her på AAU bruger det allerede.
-Jeg åbnede et *team* til vores kursus. Her sender jeg updates
 
+Join Code **8cul5da**
 ![Teams](img/tbboCqEQOU.gif)
+
+Jeg åbnede et *team* til vores kursus. Her sender jeg updates og andet. Hvis I har spørgsmål om noget, er det nok en rigtig god ide at skrive der. I Teams har I også muligheden til at åbne chats (lige som FB). **Jeg svarer normalt ikke på mails med spørgsmål om kursus men I må gerne skrive i chatten**
+
+![Teams](img/GXJ3lzRhqoo.gif)
+
 
 #### [Github](https://github.com/RJuro/HA-Beskrivende-Statistik-2018):
 Moodle (AAU's installation) er :unamused: især når man arbejder meget med IT og kode. Github er en platform social softwareudvikling og mere som ofte bruges til undervisning. Vi skal nok ikke skrive kode her på 1. semester men for jer, der har interesse i nye teknologier, IT etc. giver det måske en mulighed at udforske en ny platform (der ikke er FB eller Insta).
@@ -27,27 +32,11 @@ Datacamp er en online Data Science træning platform, der har mest fokus på R o
 Alle af jer **SKAL** gennemføre 2 kurser
 - Spreadsheet Basics
 - Data Analysis with Spreadsheets
-Endvidere åbner jeg for kurser under forløbet "Intro to Statistics with R", "Data Visualization with R" og
+Endvidere åbner jeg for kurser under forløbet "Intro to Statistics with R", "Data Visualization with R" og Tidyverse. I må meget gerne kontakte mig hvis i vil have adgang til flere kurser. Mange af dem vil hjælpe jer også med IT modulet.
+I får tilsendt et link til Datacamp.
+
+#### [Google Sheets](https://www.google.com/sheets/about/)
+Rigtig manga af jer arbejder med google docs. Google Sheets har mange af de funktioner som man kender fra Excel men skal ikke installeres og man kan nemt arbejde i en gruppe. Hvis man gerne arbejder med Excel (eller R, eller Tableau eller Python eller whatever) må man gerne bruge det.
+
 
 [![Peergrade-Youtube](http://img.youtube.com/vi/US_raZCfJAM/0.jpg)](http://www.youtube.com/watch?v=US_raZCfJAM)
-
-
-
----
-title: "R Notebook"
-output: html_notebook
----
-
-This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
-
-Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
-
-```{r}
-plot(cars)
-```
-
-Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Cmd+Option+I*.
-
-When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Cmd+Shift+K* to preview the HTML file). 
-
-The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
