@@ -18,10 +18,11 @@ Vi kommer til at bruge Teams til at kommunikere. Teams er lige som *Slack* et sy
 Join Code **8cul5da**
 ![Teams](img/tbboCqEQOU.gif)
 
-Jeg åbnede et *team* til vores kursus. Her sender jeg updates og andet. Hvis I har spørgsmål om noget, er det nok en rigtig god ide at skrive der. I Teams har I også muligheden til at åbne chats (lige som FB). **Jeg svarer normalt ikke på mails med spørgsmål om kursus men I må gerne skrive i chatten**
+Jeg åbnede et *team* til vores kursus. Her sender jeg updates og andet. Hvis I har spørgsmål om noget, er det nok en rigtig god ide at skrive der. I Teams har I også muligheden til at åbne chats (lige som FB). 
 
 ![Teams](img/GXJ3lzRhqoo.gif)
 
+**Jeg svarer normalt ikke på mails med spørgsmål om kursus men I må gerne skrive i chatten**
 
 #### [Github](https://github.com/RJuro/HA-Beskrivende-Statistik-2018):
 Moodle (AAU's installation) er :unamused: især når man arbejder meget med IT og kode. Github er en platform social softwareudvikling og mere som ofte bruges til undervisning. Vi skal nok ikke skrive kode her på 1. semester men for jer, der har interesse i nye teknologier, IT etc. giver det måske en mulighed at udforske en ny platform (der ikke er FB eller Insta).
