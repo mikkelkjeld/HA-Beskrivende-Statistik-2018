@@ -21,7 +21,7 @@ Join Code **8cul5da**
 
 Jeg åbnede et *team* til vores kursus. Her sender jeg updates og andet. Hvis I har spørgsmål om noget, er det nok en rigtig god ide at skrive der. I Teams har I også muligheden til at åbne chats (lige som FB).
 
-![Teams](img/GXJ3lzRhqoo.gif)
+![Teams](img/GXJ3lzRhqoo.gif).
 
 **Jeg svarer normalt ikke på mails med spørgsmål om kursus men I må gerne skrive i chatten**
 
