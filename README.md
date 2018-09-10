@@ -45,3 +45,15 @@ Rigtig mange af jer arbejder med Google Docs og kender dermed Google Suite. Goog
 Jeres afsluttende aflevering i statistikkurset er en **individuel** opgave. I får et (eller flere) datasæt og kommer til at foretage en eksplorativ analyse. Efter opgaven er afleveret, bliver I alle tildelt 3 tilfældige opgaver, som I skal "bedømme" og give feedback til. Det er mig, der foretager den endelige bedømmelse af, om jeres aflevering er godkendt/ikke godkendt. I denne bedømmelse indgår også kvaliteten af jeres feedback til de 3 opgaver, I har ”bedømt”. En forudsætning for at I kan gå til M3-projekteksamen er, at jeres statistikopgave godkendes. I kan læse mere om peer-feedback [her](https://www.peergrade.io/)
 
 [![Peergrade-Youtube](http://img.youtube.com/vi/US_raZCfJAM/0.jpg)](http://www.youtube.com/watch?v=US_raZCfJAM)
+
+---
+
+# Forelæsninger
+
+## 1. Session
+
+[Intro](https://cdn.rawgit.com/RJuro/HA-Beskrivende-Statistik-2018/714c4fca/slides/intro.html)
+
+[Titanic datasæt](https://github.com/RJuro/HA-Beskrivende-Statistik-2018/blob/master/data/titanic.csv)
+
+[Data - docs](https://www.kaggle.com/c/titanic/data)
