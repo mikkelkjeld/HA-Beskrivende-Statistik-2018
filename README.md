@@ -57,3 +57,9 @@ Jeres afsluttende aflevering i statistikkurset er en **individuel** opgave. I f√
 [Titanic datas√¶t](https://github.com/RJuro/HA-Beskrivende-Statistik-2018/blob/master/data/titanic.csv)
 
 [Data - docs](https://www.kaggle.com/c/titanic/data)
+
+## 2. Session
+
+[Wine](https://cdn.rawgit.com/RJuro/HA-Beskrivende-Statistik-2018/b2b0d3d9/data/wine.csv)
+[Stocks](https://cdn.rawgit.com/RJuro/HA-Beskrivende-Statistik-2018/b2b0d3d9/data/company-stock-movements-2010-2015-incl.csv
+)
