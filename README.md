@@ -63,3 +63,12 @@ Jeres afsluttende aflevering i statistikkurset er en **individuel** opgave. I f√
 [Wine](https://cdn.rawgit.com/RJuro/HA-Beskrivende-Statistik-2018/b2b0d3d9/data/wine.csv)
 [Stocks](https://cdn.rawgit.com/RJuro/HA-Beskrivende-Statistik-2018/b2b0d3d9/data/company-stock-movements-2010-2015-incl.csv
 )
+
+[Aktier - Sheets](https://docs.google.com/spreadsheets/d/1jICND1HjUOUezPQFT6tqtOtwC7kM_zcTqeQACBpG6QU/edit?usp=sharing)
+
+## 3. Session
+
+[NBA - Stats](https://rawcdn.githack.com/RJuro/HA-Beskrivende-Statistik-2018/master/data/nba_2013.csv)
+
+[Beskrivelse af NBA-Stats](https://en.wikipedia.org/wiki/Basketball_statistics)
+
